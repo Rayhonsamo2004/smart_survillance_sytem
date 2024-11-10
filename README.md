@@ -1,6 +1,7 @@
 Intelligence Survillence System
 
 Sequence diagram:
+![image](https://github.com/user-attachments/assets/7475ae89-61b2-48b4-8496-0f5a6fa13fa4)
 
 
 System Workflow:
